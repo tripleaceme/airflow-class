@@ -1,0 +1,553 @@
+[2022-07-08 02:54:45,517] {processor.py:153} INFO - Started process (PID=30470) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:54:45,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:54:45,522] {logging_mixin.py:115} INFO - [2022-07-08 02:54:45,522] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:54:45,569] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:54:45,693] {logging_mixin.py:115} INFO - [2022-07-08 02:54:45,693] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:54:45,730] {logging_mixin.py:115} INFO - [2022-07-08 02:54:45,730] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:54:45,755] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.242 seconds
+[2022-07-08 02:55:16,315] {processor.py:153} INFO - Started process (PID=30529) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:16,317] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:55:16,318] {logging_mixin.py:115} INFO - [2022-07-08 02:55:16,318] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:16,334] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:16,369] {logging_mixin.py:115} INFO - [2022-07-08 02:55:16,369] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:55:16,400] {logging_mixin.py:115} INFO - [2022-07-08 02:55:16,400] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:55:16,417] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.106 seconds
+[2022-07-08 02:55:47,377] {processor.py:153} INFO - Started process (PID=30596) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:47,381] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:55:47,385] {logging_mixin.py:115} INFO - [2022-07-08 02:55:47,384] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:47,402] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:55:47,427] {logging_mixin.py:115} INFO - [2022-07-08 02:55:47,426] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:55:47,470] {logging_mixin.py:115} INFO - [2022-07-08 02:55:47,470] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:55:47,491] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.119 seconds
+[2022-07-08 02:56:18,221] {processor.py:153} INFO - Started process (PID=30663) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:18,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:56:18,225] {logging_mixin.py:115} INFO - [2022-07-08 02:56:18,225] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:18,239] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:18,319] {logging_mixin.py:115} INFO - [2022-07-08 02:56:18,319] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:56:18,349] {logging_mixin.py:115} INFO - [2022-07-08 02:56:18,349] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:56:18,369] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.153 seconds
+[2022-07-08 02:56:49,010] {processor.py:153} INFO - Started process (PID=30722) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:49,017] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:56:49,019] {logging_mixin.py:115} INFO - [2022-07-08 02:56:49,019] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:49,042] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:56:49,079] {logging_mixin.py:115} INFO - [2022-07-08 02:56:49,078] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:56:49,111] {logging_mixin.py:115} INFO - [2022-07-08 02:56:49,111] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:56:49,137] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.134 seconds
+[2022-07-08 02:57:19,252] {processor.py:153} INFO - Started process (PID=30787) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:19,254] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:57:19,255] {logging_mixin.py:115} INFO - [2022-07-08 02:57:19,255] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:19,270] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:19,289] {logging_mixin.py:115} INFO - [2022-07-08 02:57:19,289] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:57:19,320] {logging_mixin.py:115} INFO - [2022-07-08 02:57:19,320] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:57:19,338] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.090 seconds
+[2022-07-08 02:57:49,454] {processor.py:153} INFO - Started process (PID=30844) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:49,459] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:57:49,461] {logging_mixin.py:115} INFO - [2022-07-08 02:57:49,461] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:49,478] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:57:49,567] {logging_mixin.py:115} INFO - [2022-07-08 02:57:49,567] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:57:49,599] {logging_mixin.py:115} INFO - [2022-07-08 02:57:49,599] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:57:49,619] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.170 seconds
+[2022-07-08 02:58:20,058] {processor.py:153} INFO - Started process (PID=30911) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:20,060] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:58:20,063] {logging_mixin.py:115} INFO - [2022-07-08 02:58:20,062] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:20,081] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:20,120] {logging_mixin.py:115} INFO - [2022-07-08 02:58:20,120] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:58:20,155] {logging_mixin.py:115} INFO - [2022-07-08 02:58:20,155] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:58:20,172] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.119 seconds
+[2022-07-08 02:58:50,461] {processor.py:153} INFO - Started process (PID=30978) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:50,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:58:50,466] {logging_mixin.py:115} INFO - [2022-07-08 02:58:50,465] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:50,483] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:58:50,505] {logging_mixin.py:115} INFO - [2022-07-08 02:58:50,505] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:58:50,539] {logging_mixin.py:115} INFO - [2022-07-08 02:58:50,539] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:58:50,554] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.097 seconds
+[2022-07-08 02:59:20,792] {processor.py:153} INFO - Started process (PID=31036) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:20,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:59:20,796] {logging_mixin.py:115} INFO - [2022-07-08 02:59:20,796] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:20,819] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:20,909] {logging_mixin.py:115} INFO - [2022-07-08 02:59:20,909] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:59:20,943] {logging_mixin.py:115} INFO - [2022-07-08 02:59:20,943] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:59:20,967] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.181 seconds
+[2022-07-08 02:59:51,033] {processor.py:153} INFO - Started process (PID=31104) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:51,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 02:59:51,036] {logging_mixin.py:115} INFO - [2022-07-08 02:59:51,036] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:51,065] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 02:59:51,105] {logging_mixin.py:115} INFO - [2022-07-08 02:59:51,105] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 02:59:51,139] {logging_mixin.py:115} INFO - [2022-07-08 02:59:51,139] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 02:59:51,155] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.127 seconds
+[2022-07-08 03:00:21,212] {processor.py:153} INFO - Started process (PID=31160) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:21,220] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:00:21,225] {logging_mixin.py:115} INFO - [2022-07-08 03:00:21,225] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:21,242] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:21,265] {logging_mixin.py:115} INFO - [2022-07-08 03:00:21,265] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:00:21,304] {logging_mixin.py:115} INFO - [2022-07-08 03:00:21,304] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:00:21,321] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.115 seconds
+[2022-07-08 03:00:51,437] {processor.py:153} INFO - Started process (PID=31228) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:51,441] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:00:51,443] {logging_mixin.py:115} INFO - [2022-07-08 03:00:51,443] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:51,458] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:00:51,553] {logging_mixin.py:115} INFO - [2022-07-08 03:00:51,553] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:00:51,585] {logging_mixin.py:115} INFO - [2022-07-08 03:00:51,585] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:00:51,604] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.171 seconds
+[2022-07-08 03:01:21,904] {processor.py:153} INFO - Started process (PID=31286) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:21,906] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:01:21,907] {logging_mixin.py:115} INFO - [2022-07-08 03:01:21,907] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:21,923] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:21,958] {logging_mixin.py:115} INFO - [2022-07-08 03:01:21,958] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:01:21,993] {logging_mixin.py:115} INFO - [2022-07-08 03:01:21,993] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:01:22,012] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.113 seconds
+[2022-07-08 03:01:52,252] {processor.py:153} INFO - Started process (PID=31352) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:52,254] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:01:52,255] {logging_mixin.py:115} INFO - [2022-07-08 03:01:52,255] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:52,271] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:01:52,291] {logging_mixin.py:115} INFO - [2022-07-08 03:01:52,290] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:01:52,322] {logging_mixin.py:115} INFO - [2022-07-08 03:01:52,322] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:01:52,338] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.091 seconds
+[2022-07-08 03:02:22,482] {processor.py:153} INFO - Started process (PID=31409) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:22,483] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:02:22,485] {logging_mixin.py:115} INFO - [2022-07-08 03:02:22,484] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:22,500] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:22,577] {logging_mixin.py:115} INFO - [2022-07-08 03:02:22,577] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:02:22,606] {logging_mixin.py:115} INFO - [2022-07-08 03:02:22,606] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:02:22,624] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.147 seconds
+[2022-07-08 03:02:52,725] {processor.py:153} INFO - Started process (PID=31486) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:52,726] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:02:52,728] {logging_mixin.py:115} INFO - [2022-07-08 03:02:52,728] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:52,744] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:02:52,782] {logging_mixin.py:115} INFO - [2022-07-08 03:02:52,782] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:02:52,813] {logging_mixin.py:115} INFO - [2022-07-08 03:02:52,813] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:02:52,827] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.107 seconds
+[2022-07-08 03:03:22,916] {processor.py:153} INFO - Started process (PID=31554) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:22,918] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:03:22,920] {logging_mixin.py:115} INFO - [2022-07-08 03:03:22,919] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:22,936] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:22,956] {logging_mixin.py:115} INFO - [2022-07-08 03:03:22,956] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:03:22,987] {logging_mixin.py:115} INFO - [2022-07-08 03:03:22,987] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:03:23,002] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.090 seconds
+[2022-07-08 03:03:53,344] {processor.py:153} INFO - Started process (PID=31614) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:53,347] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:03:53,350] {logging_mixin.py:115} INFO - [2022-07-08 03:03:53,350] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:53,368] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:03:53,460] {logging_mixin.py:115} INFO - [2022-07-08 03:03:53,460] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:03:53,490] {logging_mixin.py:115} INFO - [2022-07-08 03:03:53,490] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:03:53,508] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.169 seconds
+[2022-07-08 03:04:24,280] {processor.py:153} INFO - Started process (PID=31685) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:24,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:04:24,282] {logging_mixin.py:115} INFO - [2022-07-08 03:04:24,282] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:24,297] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:24,332] {logging_mixin.py:115} INFO - [2022-07-08 03:04:24,332] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:04:24,364] {logging_mixin.py:115} INFO - [2022-07-08 03:04:24,363] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:04:24,379] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.104 seconds
+[2022-07-08 03:04:54,524] {processor.py:153} INFO - Started process (PID=31740) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:54,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:04:54,527] {logging_mixin.py:115} INFO - [2022-07-08 03:04:54,527] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:54,543] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:04:54,563] {logging_mixin.py:115} INFO - [2022-07-08 03:04:54,563] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:04:54,594] {logging_mixin.py:115} INFO - [2022-07-08 03:04:54,594] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:04:54,611] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.093 seconds
+[2022-07-08 03:05:24,675] {processor.py:153} INFO - Started process (PID=31810) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:24,677] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:05:24,678] {logging_mixin.py:115} INFO - [2022-07-08 03:05:24,678] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:24,692] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:24,775] {logging_mixin.py:115} INFO - [2022-07-08 03:05:24,775] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:05:24,875] {logging_mixin.py:115} INFO - [2022-07-08 03:05:24,875] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:05:24,958] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.287 seconds
+[2022-07-08 03:05:55,773] {processor.py:153} INFO - Started process (PID=31876) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:55,777] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:05:55,779] {logging_mixin.py:115} INFO - [2022-07-08 03:05:55,779] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:55,806] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:05:55,853] {logging_mixin.py:115} INFO - [2022-07-08 03:05:55,853] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:05:55,897] {logging_mixin.py:115} INFO - [2022-07-08 03:05:55,897] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:05:55,917] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.152 seconds
+[2022-07-08 03:06:26,223] {processor.py:153} INFO - Started process (PID=31943) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:26,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:06:26,226] {logging_mixin.py:115} INFO - [2022-07-08 03:06:26,226] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:26,246] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:26,270] {logging_mixin.py:115} INFO - [2022-07-08 03:06:26,269] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:06:26,305] {logging_mixin.py:115} INFO - [2022-07-08 03:06:26,305] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:06:26,322] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.106 seconds
+[2022-07-08 03:06:56,517] {processor.py:153} INFO - Started process (PID=32007) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:56,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:06:56,525] {logging_mixin.py:115} INFO - [2022-07-08 03:06:56,525] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:56,543] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:06:56,661] {logging_mixin.py:115} INFO - [2022-07-08 03:06:56,661] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:06:56,694] {logging_mixin.py:115} INFO - [2022-07-08 03:06:56,694] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:06:56,715] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.202 seconds
+[2022-07-08 03:07:27,492] {processor.py:153} INFO - Started process (PID=32070) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:27,499] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:07:27,504] {logging_mixin.py:115} INFO - [2022-07-08 03:07:27,503] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:27,520] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:27,555] {logging_mixin.py:115} INFO - [2022-07-08 03:07:27,555] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:07:27,590] {logging_mixin.py:115} INFO - [2022-07-08 03:07:27,590] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:07:27,605] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.119 seconds
+[2022-07-08 03:07:57,875] {processor.py:153} INFO - Started process (PID=32135) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:57,877] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:07:57,878] {logging_mixin.py:115} INFO - [2022-07-08 03:07:57,878] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:57,895] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:07:57,915] {logging_mixin.py:115} INFO - [2022-07-08 03:07:57,915] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:07:57,946] {logging_mixin.py:115} INFO - [2022-07-08 03:07:57,946] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:07:57,963] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.093 seconds
+[2022-07-08 03:08:28,166] {processor.py:153} INFO - Started process (PID=32190) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:28,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:08:28,170] {logging_mixin.py:115} INFO - [2022-07-08 03:08:28,170] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:28,185] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:28,267] {logging_mixin.py:115} INFO - [2022-07-08 03:08:28,267] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:08:28,295] {logging_mixin.py:115} INFO - [2022-07-08 03:08:28,295] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:08:28,313] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.152 seconds
+[2022-07-08 03:08:40,715] {processor.py:153} INFO - Started process (PID=32219) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:40,716] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:08:40,718] {logging_mixin.py:115} INFO - [2022-07-08 03:08:40,718] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:40,744] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:08:40,766] {logging_mixin.py:115} INFO - [2022-07-08 03:08:40,765] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:08:40,825] {logging_mixin.py:115} INFO - [2022-07-08 03:08:40,825] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:08:40,852] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.141 seconds
+[2022-07-08 03:09:11,159] {processor.py:153} INFO - Started process (PID=32283) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:11,161] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:09:11,162] {logging_mixin.py:115} INFO - [2022-07-08 03:09:11,162] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:11,187] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:11,221] {logging_mixin.py:115} INFO - [2022-07-08 03:09:11,221] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:09:11,251] {logging_mixin.py:115} INFO - [2022-07-08 03:09:11,251] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:09:11,272] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.118 seconds
+[2022-07-08 03:09:41,533] {processor.py:153} INFO - Started process (PID=32341) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:41,535] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:09:41,537] {logging_mixin.py:115} INFO - [2022-07-08 03:09:41,537] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:41,567] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:41,614] {logging_mixin.py:115} INFO - [2022-07-08 03:09:41,614] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:09:41,670] {logging_mixin.py:115} INFO - [2022-07-08 03:09:41,669] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:09:41,706] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.182 seconds
+[2022-07-08 03:09:51,869] {processor.py:153} INFO - Started process (PID=32362) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:51,870] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:09:51,875] {logging_mixin.py:115} INFO - [2022-07-08 03:09:51,875] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:51,904] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:09:51,994] {logging_mixin.py:115} INFO - [2022-07-08 03:09:51,994] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:09:52,027] {logging_mixin.py:115} INFO - [2022-07-08 03:09:52,027] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:09:52,048] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.184 seconds
+[2022-07-08 03:10:22,194] {processor.py:153} INFO - Started process (PID=32429) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:22,195] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:10:22,197] {logging_mixin.py:115} INFO - [2022-07-08 03:10:22,196] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:22,216] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:22,255] {logging_mixin.py:115} INFO - [2022-07-08 03:10:22,255] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:10:22,297] {logging_mixin.py:115} INFO - [2022-07-08 03:10:22,297] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:10:22,315] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.126 seconds
+[2022-07-08 03:10:52,442] {processor.py:153} INFO - Started process (PID=32487) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:52,444] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:10:52,445] {logging_mixin.py:115} INFO - [2022-07-08 03:10:52,445] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:52,461] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:10:52,481] {logging_mixin.py:115} INFO - [2022-07-08 03:10:52,481] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:10:52,513] {logging_mixin.py:115} INFO - [2022-07-08 03:10:52,512] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:10:52,531] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.093 seconds
+[2022-07-08 03:11:22,792] {processor.py:153} INFO - Started process (PID=32556) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:22,793] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:11:22,795] {logging_mixin.py:115} INFO - [2022-07-08 03:11:22,794] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:22,810] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:22,903] {logging_mixin.py:115} INFO - [2022-07-08 03:11:22,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:11:22,932] {logging_mixin.py:115} INFO - [2022-07-08 03:11:22,931] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:11:22,950] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.162 seconds
+[2022-07-08 03:11:53,379] {processor.py:153} INFO - Started process (PID=32615) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:53,380] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:11:53,381] {logging_mixin.py:115} INFO - [2022-07-08 03:11:53,381] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:53,396] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:11:53,422] {logging_mixin.py:115} INFO - [2022-07-08 03:11:53,422] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:11:53,465] {logging_mixin.py:115} INFO - [2022-07-08 03:11:53,465] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:11:53,479] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.105 seconds
+[2022-07-08 03:12:23,565] {processor.py:153} INFO - Started process (PID=32683) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:23,568] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:12:23,571] {logging_mixin.py:115} INFO - [2022-07-08 03:12:23,570] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:23,595] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:23,696] {logging_mixin.py:115} INFO - [2022-07-08 03:12:23,696] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:12:23,728] {logging_mixin.py:115} INFO - [2022-07-08 03:12:23,728] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:12:23,744] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.187 seconds
+[2022-07-08 03:12:53,953] {processor.py:153} INFO - Started process (PID=32742) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:53,955] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:12:53,957] {logging_mixin.py:115} INFO - [2022-07-08 03:12:53,957] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:53,976] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:12:53,996] {logging_mixin.py:115} INFO - [2022-07-08 03:12:53,995] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:12:54,032] {logging_mixin.py:115} INFO - [2022-07-08 03:12:54,032] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:12:54,047] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.099 seconds
+[2022-07-08 03:13:24,543] {processor.py:153} INFO - Started process (PID=32806) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:24,545] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:13:24,548] {logging_mixin.py:115} INFO - [2022-07-08 03:13:24,548] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:24,564] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:24,670] {logging_mixin.py:115} INFO - [2022-07-08 03:13:24,670] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:13:24,704] {logging_mixin.py:115} INFO - [2022-07-08 03:13:24,704] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:13:24,720] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.181 seconds
+[2022-07-08 03:13:55,285] {processor.py:153} INFO - Started process (PID=32884) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:55,292] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:13:55,297] {logging_mixin.py:115} INFO - [2022-07-08 03:13:55,297] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:55,326] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:13:55,377] {logging_mixin.py:115} INFO - [2022-07-08 03:13:55,377] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:13:55,409] {logging_mixin.py:115} INFO - [2022-07-08 03:13:55,409] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:13:55,428] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.165 seconds
+[2022-07-08 03:14:25,795] {processor.py:153} INFO - Started process (PID=32941) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:25,797] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:14:25,798] {logging_mixin.py:115} INFO - [2022-07-08 03:14:25,798] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:25,815] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:25,903] {logging_mixin.py:115} INFO - [2022-07-08 03:14:25,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:14:25,936] {logging_mixin.py:115} INFO - [2022-07-08 03:14:25,935] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:14:25,955] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.166 seconds
+[2022-07-08 03:14:56,639] {processor.py:153} INFO - Started process (PID=33012) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:56,641] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:14:56,642] {logging_mixin.py:115} INFO - [2022-07-08 03:14:56,642] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:56,660] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:14:56,697] {logging_mixin.py:115} INFO - [2022-07-08 03:14:56,697] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:14:56,729] {logging_mixin.py:115} INFO - [2022-07-08 03:14:56,728] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:14:56,746] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.111 seconds
+[2022-07-08 03:15:27,097] {processor.py:153} INFO - Started process (PID=33075) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:27,098] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:15:27,099] {logging_mixin.py:115} INFO - [2022-07-08 03:15:27,099] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:27,116] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:27,202] {logging_mixin.py:115} INFO - [2022-07-08 03:15:27,202] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:15:27,231] {logging_mixin.py:115} INFO - [2022-07-08 03:15:27,230] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:15:27,248] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.156 seconds
+[2022-07-08 03:15:57,536] {processor.py:153} INFO - Started process (PID=33143) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:57,537] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:15:57,539] {logging_mixin.py:115} INFO - [2022-07-08 03:15:57,539] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:57,559] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:15:57,600] {logging_mixin.py:115} INFO - [2022-07-08 03:15:57,600] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:15:57,638] {logging_mixin.py:115} INFO - [2022-07-08 03:15:57,637] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:15:57,656] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.127 seconds
+[2022-07-08 03:16:28,425] {processor.py:153} INFO - Started process (PID=33210) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:28,426] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:16:28,427] {logging_mixin.py:115} INFO - [2022-07-08 03:16:28,427] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:28,444] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:28,535] {logging_mixin.py:115} INFO - [2022-07-08 03:16:28,535] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:16:28,587] {logging_mixin.py:115} INFO - [2022-07-08 03:16:28,586] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:16:28,607] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.187 seconds
+[2022-07-08 03:16:58,728] {processor.py:153} INFO - Started process (PID=33266) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:58,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:16:58,732] {logging_mixin.py:115} INFO - [2022-07-08 03:16:58,732] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:58,759] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:16:58,802] {logging_mixin.py:115} INFO - [2022-07-08 03:16:58,802] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:16:58,842] {logging_mixin.py:115} INFO - [2022-07-08 03:16:58,842] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:16:58,861] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.139 seconds
+[2022-07-08 03:17:29,707] {processor.py:153} INFO - Started process (PID=33334) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:17:29,709] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:17:29,711] {logging_mixin.py:115} INFO - [2022-07-08 03:17:29,711] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:17:29,731] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:17:29,814] {logging_mixin.py:115} INFO - [2022-07-08 03:17:29,813] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:17:29,849] {logging_mixin.py:115} INFO - [2022-07-08 03:17:29,849] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:17:29,865] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.163 seconds
+[2022-07-08 03:18:00,374] {processor.py:153} INFO - Started process (PID=33390) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:00,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:18:00,377] {logging_mixin.py:115} INFO - [2022-07-08 03:18:00,377] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:00,396] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:00,428] {logging_mixin.py:115} INFO - [2022-07-08 03:18:00,428] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:18:00,459] {logging_mixin.py:115} INFO - [2022-07-08 03:18:00,459] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:18:00,475] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.108 seconds
+[2022-07-08 03:18:31,269] {processor.py:153} INFO - Started process (PID=33455) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:31,270] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:18:31,272] {logging_mixin.py:115} INFO - [2022-07-08 03:18:31,272] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:31,290] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:18:31,379] {logging_mixin.py:115} INFO - [2022-07-08 03:18:31,379] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:18:31,409] {logging_mixin.py:115} INFO - [2022-07-08 03:18:31,409] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:18:31,426] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.163 seconds
+[2022-07-08 03:19:01,602] {processor.py:153} INFO - Started process (PID=33523) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:01,603] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:19:01,605] {logging_mixin.py:115} INFO - [2022-07-08 03:19:01,605] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:01,628] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:01,665] {logging_mixin.py:115} INFO - [2022-07-08 03:19:01,665] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:19:01,697] {logging_mixin.py:115} INFO - [2022-07-08 03:19:01,696] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:19:01,720] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.123 seconds
+[2022-07-08 03:19:31,780] {processor.py:153} INFO - Started process (PID=33580) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:31,789] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:19:31,791] {logging_mixin.py:115} INFO - [2022-07-08 03:19:31,790] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:31,809] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:19:31,893] {logging_mixin.py:115} INFO - [2022-07-08 03:19:31,893] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:19:31,922] {logging_mixin.py:115} INFO - [2022-07-08 03:19:31,922] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:19:31,942] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.166 seconds
+[2022-07-08 03:20:02,093] {processor.py:153} INFO - Started process (PID=33645) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:02,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:20:02,098] {logging_mixin.py:115} INFO - [2022-07-08 03:20:02,098] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:02,113] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:02,152] {logging_mixin.py:115} INFO - [2022-07-08 03:20:02,152] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:20:02,187] {logging_mixin.py:115} INFO - [2022-07-08 03:20:02,186] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:20:02,201] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.115 seconds
+[2022-07-08 03:20:33,118] {processor.py:153} INFO - Started process (PID=33701) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:33,121] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:20:33,124] {logging_mixin.py:115} INFO - [2022-07-08 03:20:33,124] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:33,152] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:20:33,236] {logging_mixin.py:115} INFO - [2022-07-08 03:20:33,235] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:20:33,268] {logging_mixin.py:115} INFO - [2022-07-08 03:20:33,268] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:20:33,286] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.177 seconds
+[2022-07-08 03:21:03,818] {processor.py:153} INFO - Started process (PID=33768) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:03,819] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:21:03,820] {logging_mixin.py:115} INFO - [2022-07-08 03:21:03,820] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:03,838] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:03,873] {logging_mixin.py:115} INFO - [2022-07-08 03:21:03,873] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:21:03,910] {logging_mixin.py:115} INFO - [2022-07-08 03:21:03,910] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:21:03,925] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.114 seconds
+[2022-07-08 03:21:34,395] {processor.py:153} INFO - Started process (PID=33825) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:34,396] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:21:34,398] {logging_mixin.py:115} INFO - [2022-07-08 03:21:34,398] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:34,425] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:21:34,525] {logging_mixin.py:115} INFO - [2022-07-08 03:21:34,525] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:21:34,565] {logging_mixin.py:115} INFO - [2022-07-08 03:21:34,565] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:21:34,583] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.193 seconds
+[2022-07-08 03:22:05,201] {processor.py:153} INFO - Started process (PID=33891) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:05,202] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:22:05,203] {logging_mixin.py:115} INFO - [2022-07-08 03:22:05,203] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:05,220] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:05,255] {logging_mixin.py:115} INFO - [2022-07-08 03:22:05,255] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:22:05,289] {logging_mixin.py:115} INFO - [2022-07-08 03:22:05,288] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:22:05,356] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.160 seconds
+[2022-07-08 03:22:35,499] {processor.py:153} INFO - Started process (PID=33960) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:35,500] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:22:35,501] {logging_mixin.py:115} INFO - [2022-07-08 03:22:35,501] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:35,519] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:22:35,612] {logging_mixin.py:115} INFO - [2022-07-08 03:22:35,612] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:22:35,648] {logging_mixin.py:115} INFO - [2022-07-08 03:22:35,648] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:22:35,665] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.173 seconds
+[2022-07-08 03:23:05,737] {processor.py:153} INFO - Started process (PID=34017) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:05,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:23:05,740] {logging_mixin.py:115} INFO - [2022-07-08 03:23:05,740] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:05,769] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:05,814] {logging_mixin.py:115} INFO - [2022-07-08 03:23:05,813] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:23:05,854] {logging_mixin.py:115} INFO - [2022-07-08 03:23:05,854] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:23:05,873] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.143 seconds
+[2022-07-08 03:23:36,018] {processor.py:153} INFO - Started process (PID=34085) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:36,020] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:23:36,022] {logging_mixin.py:115} INFO - [2022-07-08 03:23:36,022] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:36,043] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:23:36,145] {logging_mixin.py:115} INFO - [2022-07-08 03:23:36,145] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:23:36,203] {logging_mixin.py:115} INFO - [2022-07-08 03:23:36,203] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:23:36,236] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.222 seconds
+[2022-07-08 03:24:06,319] {processor.py:153} INFO - Started process (PID=34144) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:06,321] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:24:06,324] {logging_mixin.py:115} INFO - [2022-07-08 03:24:06,324] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:06,347] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:06,377] {logging_mixin.py:115} INFO - [2022-07-08 03:24:06,376] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:24:06,409] {logging_mixin.py:115} INFO - [2022-07-08 03:24:06,409] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:24:06,428] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.117 seconds
+[2022-07-08 03:24:36,503] {processor.py:153} INFO - Started process (PID=34211) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:36,504] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:24:36,505] {logging_mixin.py:115} INFO - [2022-07-08 03:24:36,505] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:36,522] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:24:36,639] {logging_mixin.py:115} INFO - [2022-07-08 03:24:36,639] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:24:36,701] {logging_mixin.py:115} INFO - [2022-07-08 03:24:36,701] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:24:36,725] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.231 seconds
+[2022-07-08 03:25:07,281] {processor.py:153} INFO - Started process (PID=34276) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:07,283] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:25:07,284] {logging_mixin.py:115} INFO - [2022-07-08 03:25:07,284] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:07,304] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:07,362] {logging_mixin.py:115} INFO - [2022-07-08 03:25:07,362] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:25:07,396] {logging_mixin.py:115} INFO - [2022-07-08 03:25:07,396] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:25:07,422] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.145 seconds
+[2022-07-08 03:25:37,659] {processor.py:153} INFO - Started process (PID=34336) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:37,662] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:25:37,665] {logging_mixin.py:115} INFO - [2022-07-08 03:25:37,665] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:37,683] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:25:37,778] {logging_mixin.py:115} INFO - [2022-07-08 03:25:37,778] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:25:37,806] {logging_mixin.py:115} INFO - [2022-07-08 03:25:37,806] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:25:37,823] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.168 seconds
+[2022-07-08 03:26:08,383] {processor.py:153} INFO - Started process (PID=34403) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:08,385] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:26:08,386] {logging_mixin.py:115} INFO - [2022-07-08 03:26:08,386] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:08,404] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:08,449] {logging_mixin.py:115} INFO - [2022-07-08 03:26:08,449] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:26:08,481] {logging_mixin.py:115} INFO - [2022-07-08 03:26:08,481] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:26:08,498] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.120 seconds
+[2022-07-08 03:26:39,012] {processor.py:153} INFO - Started process (PID=34460) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:39,014] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:26:39,016] {logging_mixin.py:115} INFO - [2022-07-08 03:26:39,016] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:39,044] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:26:39,156] {logging_mixin.py:115} INFO - [2022-07-08 03:26:39,156] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:26:39,191] {logging_mixin.py:115} INFO - [2022-07-08 03:26:39,190] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:26:39,210] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.207 seconds
+[2022-07-08 03:27:09,498] {processor.py:153} INFO - Started process (PID=34525) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:09,499] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:27:09,500] {logging_mixin.py:115} INFO - [2022-07-08 03:27:09,500] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:09,522] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:09,577] {logging_mixin.py:115} INFO - [2022-07-08 03:27:09,577] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:27:09,612] {logging_mixin.py:115} INFO - [2022-07-08 03:27:09,612] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:27:09,628] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.135 seconds
+[2022-07-08 03:27:39,969] {processor.py:153} INFO - Started process (PID=34580) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:39,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:27:39,972] {logging_mixin.py:115} INFO - [2022-07-08 03:27:39,972] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:39,990] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:27:40,098] {logging_mixin.py:115} INFO - [2022-07-08 03:27:40,097] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:27:40,128] {logging_mixin.py:115} INFO - [2022-07-08 03:27:40,128] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:27:40,143] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.178 seconds
+[2022-07-08 03:28:10,591] {processor.py:153} INFO - Started process (PID=34644) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:10,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:28:10,596] {logging_mixin.py:115} INFO - [2022-07-08 03:28:10,596] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:10,622] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:10,662] {logging_mixin.py:115} INFO - [2022-07-08 03:28:10,662] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:28:10,693] {logging_mixin.py:115} INFO - [2022-07-08 03:28:10,693] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:28:10,708] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.124 seconds
+[2022-07-08 03:28:40,792] {processor.py:153} INFO - Started process (PID=34709) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:40,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:28:40,796] {logging_mixin.py:115} INFO - [2022-07-08 03:28:40,796] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:40,822] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:28:40,921] {logging_mixin.py:115} INFO - [2022-07-08 03:28:40,921] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:28:40,986] {logging_mixin.py:115} INFO - [2022-07-08 03:28:40,986] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:28:41,006] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.218 seconds
+[2022-07-08 03:29:11,149] {processor.py:153} INFO - Started process (PID=34766) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:11,151] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:29:11,152] {logging_mixin.py:115} INFO - [2022-07-08 03:29:11,152] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:11,170] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:11,255] {logging_mixin.py:115} INFO - [2022-07-08 03:29:11,255] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:29:11,283] {logging_mixin.py:115} INFO - [2022-07-08 03:29:11,282] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:29:11,299] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.154 seconds
+[2022-07-08 03:29:41,596] {processor.py:153} INFO - Started process (PID=34833) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:41,599] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:29:41,602] {logging_mixin.py:115} INFO - [2022-07-08 03:29:41,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:41,672] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:29:41,818] {logging_mixin.py:115} INFO - [2022-07-08 03:29:41,818] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:29:41,874] {logging_mixin.py:115} INFO - [2022-07-08 03:29:41,873] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:29:41,895] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.308 seconds
+[2022-07-08 03:30:12,022] {processor.py:153} INFO - Started process (PID=34891) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:12,024] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:30:12,026] {logging_mixin.py:115} INFO - [2022-07-08 03:30:12,026] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:12,050] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:12,143] {logging_mixin.py:115} INFO - [2022-07-08 03:30:12,143] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:30:12,171] {logging_mixin.py:115} INFO - [2022-07-08 03:30:12,171] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:30:12,189] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.173 seconds
+[2022-07-08 03:30:42,831] {processor.py:153} INFO - Started process (PID=34957) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:42,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:30:42,835] {logging_mixin.py:115} INFO - [2022-07-08 03:30:42,835] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:42,857] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:30:42,898] {logging_mixin.py:115} INFO - [2022-07-08 03:30:42,898] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:30:42,931] {logging_mixin.py:115} INFO - [2022-07-08 03:30:42,930] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:30:42,950] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.123 seconds
+[2022-07-08 03:31:13,608] {processor.py:153} INFO - Started process (PID=35021) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:13,610] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:31:13,611] {logging_mixin.py:115} INFO - [2022-07-08 03:31:13,611] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:13,632] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:13,752] {logging_mixin.py:115} INFO - [2022-07-08 03:31:13,752] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:31:13,799] {logging_mixin.py:115} INFO - [2022-07-08 03:31:13,799] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:31:13,822] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.219 seconds
+[2022-07-08 03:31:43,999] {processor.py:153} INFO - Started process (PID=35079) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:44,006] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:31:44,013] {logging_mixin.py:115} INFO - [2022-07-08 03:31:44,013] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:44,039] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:31:44,080] {logging_mixin.py:115} INFO - [2022-07-08 03:31:44,080] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:31:44,135] {logging_mixin.py:115} INFO - [2022-07-08 03:31:44,135] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:31:44,153] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.159 seconds
+[2022-07-08 03:32:14,789] {processor.py:153} INFO - Started process (PID=35146) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:14,791] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:32:14,792] {logging_mixin.py:115} INFO - [2022-07-08 03:32:14,792] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:14,815] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:14,904] {logging_mixin.py:115} INFO - [2022-07-08 03:32:14,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:32:14,944] {logging_mixin.py:115} INFO - [2022-07-08 03:32:14,944] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:32:14,960] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.176 seconds
+[2022-07-08 03:32:45,291] {processor.py:153} INFO - Started process (PID=35208) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:45,295] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:32:45,297] {logging_mixin.py:115} INFO - [2022-07-08 03:32:45,297] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:45,345] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:32:45,388] {logging_mixin.py:115} INFO - [2022-07-08 03:32:45,388] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:32:45,435] {logging_mixin.py:115} INFO - [2022-07-08 03:32:45,434] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:32:45,453] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.167 seconds
+[2022-07-08 03:33:15,901] {processor.py:153} INFO - Started process (PID=35279) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:15,902] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:33:15,904] {logging_mixin.py:115} INFO - [2022-07-08 03:33:15,904] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:15,936] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:16,052] {logging_mixin.py:115} INFO - [2022-07-08 03:33:16,052] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:33:16,098] {logging_mixin.py:115} INFO - [2022-07-08 03:33:16,098] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:33:16,126] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.231 seconds
+[2022-07-08 03:33:46,840] {processor.py:153} INFO - Started process (PID=35335) to work on /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:46,842] {processor.py:641} INFO - Processing file /opt/airflow/dags/mysql_dag_demo.py for tasks to queue
+[2022-07-08 03:33:46,844] {logging_mixin.py:115} INFO - [2022-07-08 03:33:46,843] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:46,867] {processor.py:651} INFO - DAG(s) dict_keys(['client_processing_db']) retrieved from /opt/airflow/dags/mysql_dag_demo.py
+[2022-07-08 03:33:46,904] {logging_mixin.py:115} INFO - [2022-07-08 03:33:46,904] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-08 03:33:46,938] {logging_mixin.py:115} INFO - [2022-07-08 03:33:46,938] {dag.py:2919} INFO - Setting next_dagrun for client_processing_db to 2022-07-08T00:00:00+00:00, run_after=2022-07-09T00:00:00+00:00
+[2022-07-08 03:33:46,967] {processor.py:161} INFO - Processing /opt/airflow/dags/mysql_dag_demo.py took 0.131 seconds

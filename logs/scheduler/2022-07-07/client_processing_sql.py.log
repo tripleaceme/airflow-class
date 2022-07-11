@@ -1,0 +1,42 @@
+[2022-07-07 02:05:50,976] {processor.py:153} INFO - Started process (PID=2990) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:05:50,978] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:05:50,981] {logging_mixin.py:115} INFO - [2022-07-07 02:05:50,980] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:05:51,007] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:05:51,255] {logging_mixin.py:115} INFO - [2022-07-07 02:05:51,255] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:05:51,288] {logging_mixin.py:115} INFO - [2022-07-07 02:05:51,288] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:05:51,309] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.340 seconds
+[2022-07-07 02:06:22,272] {processor.py:153} INFO - Started process (PID=3057) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:22,274] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:06:22,275] {logging_mixin.py:115} INFO - [2022-07-07 02:06:22,275] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:22,291] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:22,333] {logging_mixin.py:115} INFO - [2022-07-07 02:06:22,333] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:06:22,368] {logging_mixin.py:115} INFO - [2022-07-07 02:06:22,368] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:06:22,383] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.115 seconds
+[2022-07-07 02:06:52,470] {processor.py:153} INFO - Started process (PID=3124) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:52,473] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:06:52,475] {logging_mixin.py:115} INFO - [2022-07-07 02:06:52,475] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:52,505] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:06:52,548] {logging_mixin.py:115} INFO - [2022-07-07 02:06:52,548] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:06:52,602] {logging_mixin.py:115} INFO - [2022-07-07 02:06:52,602] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:06:52,648] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.186 seconds
+[2022-07-07 02:07:22,865] {processor.py:153} INFO - Started process (PID=3179) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:22,867] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:07:22,868] {logging_mixin.py:115} INFO - [2022-07-07 02:07:22,868] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:22,885] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:23,150] {logging_mixin.py:115} INFO - [2022-07-07 02:07:23,150] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:07:23,188] {logging_mixin.py:115} INFO - [2022-07-07 02:07:23,188] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:07:23,229] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.369 seconds
+[2022-07-07 02:07:53,344] {processor.py:153} INFO - Started process (PID=3246) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:53,346] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:07:53,347] {logging_mixin.py:115} INFO - [2022-07-07 02:07:53,347] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:53,387] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:07:53,421] {logging_mixin.py:115} INFO - [2022-07-07 02:07:53,421] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:07:53,459] {logging_mixin.py:115} INFO - [2022-07-07 02:07:53,459] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:07:53,476] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.138 seconds
+[2022-07-07 02:08:23,665] {processor.py:153} INFO - Started process (PID=3301) to work on /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:08:23,667] {processor.py:641} INFO - Processing file /opt/airflow/dags/client_processing_sql.py for tasks to queue
+[2022-07-07 02:08:23,669] {logging_mixin.py:115} INFO - [2022-07-07 02:08:23,668] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:08:23,686] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/client_processing_sql.py
+[2022-07-07 02:08:23,711] {logging_mixin.py:115} INFO - [2022-07-07 02:08:23,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-07 02:08:23,747] {logging_mixin.py:115} INFO - [2022-07-07 02:08:23,746] {dag.py:2919} INFO - Setting next_dagrun for user_processing to 2022-07-06T00:00:00+00:00, run_after=2022-07-07T00:00:00+00:00
+[2022-07-07 02:08:23,765] {processor.py:161} INFO - Processing /opt/airflow/dags/client_processing_sql.py took 0.106 seconds
